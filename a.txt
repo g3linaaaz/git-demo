@@ -1,1 +1,2 @@
 This is added from the remote repository.
+This is added from the local repository.
